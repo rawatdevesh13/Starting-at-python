@@ -1,4 +1,4 @@
-n=int(input('Enter the number'))
+n=int(input('Enter the number: '))
 a=n//2
 b=2
 z=0
